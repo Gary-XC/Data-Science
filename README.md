@@ -1,3 +1,6 @@
 # Data-Science
 Switch To uv Python Project and Package Manager:
 - https://github.com/Gary-XC/uv-package-manager/blob/master/README.md
+
+Using `DVC` to Track and Version Control Datasets:
+- https://github.com/Gary-XC/dvc-setup
